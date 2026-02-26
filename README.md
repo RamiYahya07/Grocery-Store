@@ -1,5 +1,4 @@
-# Grocery-Store
-E-Commerce 
+# Grocery Store App
 
 Flutter application that:
 - Fetches shops from API
@@ -7,13 +6,8 @@ Flutter application that:
 - Sort by ETA / Minimum Order
 - Filter by Open Only
 - Uses Bloc for state management
-- MVVM
 
-## Environment Configuration
-
-This project requires a secret key to access the API.
-
-Run the app using:
+## Run the project
 
 flutter run --dart-define=SECRET_KEY=your_secret_key_here
 
